@@ -45,7 +45,7 @@ The full project report can be found [here](https://docs.google.com/document/d/1
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-[https://github.com/nessmahm/InfluencersClassification.git](https://github.com/nessmahm/DeepLearning-For-Influencer-Classification)
+https://github.com/nessmahm/DeepLearning-For-Influencer-Classification
 cd influencers-classification
 ```
 
