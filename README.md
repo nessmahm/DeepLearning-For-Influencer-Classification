@@ -46,6 +46,6 @@ To get started with this project, clone the repository and install the required 
 
 ```bash
 https://github.com/nessmahm/DeepLearning-For-Influencer-Classification
-cd influencers-classification
+cd DeepLearning-For-Influencer-Classification
 ```
 
